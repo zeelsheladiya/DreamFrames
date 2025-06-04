@@ -18,7 +18,7 @@ def main():
             time.sleep(1)
             console.print("4. AI Operation Started: Converting to AI Art!", style="bold blue")
             ai_operation.convert_frames_to_ai_art()
-            console.print("4. AI Operation Finished: Complete Converting to AI Art!", style="bold blue")
+            console.print("5. AI Operation Finished: Complete Converting to AI Art!", style="bold blue")
 
             break
 
